@@ -1,0 +1,172 @@
+2018/08/16 21:02:48.799 30554 140224743316608 GX0   Logger started.
+2018/08/16 21:02:48.799 30554 140224743316608 GX0   Found 0 core dump files ...
+2018/08/16 21:02:48.800 30554 140224743316608 GX0   systemd: logind service available
+2018/08/16 21:02:48.801 30554 140224743316608 GX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='c2', canGraphical=1, canTTY=1, canMultiSession=1]
+2018/08/16 21:02:48.802 30554 140224743316608 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c2 user=ben state=user active=1 reliable=1 infoId=3353246491] [path=/org/freedesktop/login1/session/c2 TTY= seat=seat0 display=:0 vtnr=7 owner=[SysUser: ben [uid=1000, gid=1000 home=/home/ben gecos=ben fitzpatrick shell=/bin/bash]] idle=0(0) active=1 type=x11 class=user state=active timestamp=1534455001683536 service=lightdm defaultCG= leader=447 audit=0 remote=0 rHost= rUser= killProc=0]
+2018/08/16 21:02:48.802 30554 140224743316608 GX0   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2018/08/16 21:02:48.802 30554 140224743316608 GX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2018/08/16 21:02:48.804 30554 140224743316608 GX0   SysSessionInfoManager: own session cache set to '3353246491'
+2018/08/16 21:02:48.804 30554 140224743316608 GX0   Running on Qt 5.11.1
+2018/08/16 21:02:48.901 30554 140224743316608 GX0   Initialised XRandR extension 1.5 (base=89 error=147)
+2018/08/16 21:02:48.910 30554 140224743316608 GX0   MonitorInfo: [XRandR 1.2] CRTC eDP1 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2018/08/16 21:02:48.910 30554 140224743316608 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2018/08/16 21:02:48.910 30554 140224743316608 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2018/08/16 21:02:48.910 30554 140224743316608 GX0   MonitorInfo: [XRandR 1.2] CRTC 3 has no outputs
+2018/08/16 21:02:48.910 30554 140224743316608 GX0   Virtual Desktop [0, 0, 1920, 1080]
+2018/08/16 21:02:48.910 30554 140224743316608 GX0   MonitorInfo: [XRandR 1.2] CRTC eDP1 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2018/08/16 21:02:48.910 30554 140224743316608 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2018/08/16 21:02:48.910 30554 140224743316608 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2018/08/16 21:02:48.910 30554 140224743316608 GX0   MonitorInfo: [XRandR 1.2] CRTC 3 has no outputs
+2018/08/16 21:02:48.910 30554 140224743316608 GX0   Virtual Desktop [0, 0, 1920, 1080]
+2018/08/16 21:02:48.917 30554 140224743316608 GX0   Loaded language 'en', using locale 'en'
+2018/08/16 21:02:48.917 30554 140224743316608 GX0   InterProcessBase::SecureNetwork created
+2018/08/16 21:02:48.919 30554 140224743316608 GX0   AutoLogin::Login: enabled: 1
+2018/08/16 21:02:48.919 30554 140224743316608 GX0   AccountLoginStateMachine::Reset
+2018/08/16 21:02:48.919 30554 140224743316608 GX0   SetUserLoggedIn(0x3dab5d0): changed to: 1
+2018/08/16 21:02:48.919 30554 140223724996352 GX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2018/08/16 21:02:48.919 30554 140223724996352 GX0   Opening local TCP connection to 127.0.0.1:5939, tcp?
+2018/08/16 21:02:48.919 30554 140224608843520 GX0   Local TCP connection established
+2018/08/16 21:02:49.007 30554 140224634021632 GX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2018/08/16 21:02:49.008 30554 140224617236224 GX0   Received Control_InitIPC_Response processtype=1
+2018/08/16 21:02:49.008 30554 140224617236224 GX0   Received Control_InitIPC_Response runningProcesses=3
+2018/08/16 21:02:49.008 30554 140224617236224 GX0   Control_InitIPC_Response: all processes 3 completely initialized
+
+
+
+Start:              2018/08/16 21:02:49.009 (UTC-4:00)
+Version:            13.2.13582 
+ID:                 0
+Loglevel:           Info (100)
+License:            0
+Server:             master9.teamviewer.com
+IC:                 763442182
+CPU:                Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz
+CPU extensions:     l9
+OS:                 Lx Kirk (x86_64)
+IP:                 192.168.1.19
+Proxy-Settings:     Type=0 IP= User=
+
+2018/08/16 21:02:51.493 30554 140224634021632 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: e0e080ed-8cbc-4202-a659-9f5ce92f8f49)
+2018/08/16 21:02:51.494 30554 140224608843520 GX0   Account::UpdateState: KA = 1, active = 1
+2018/08/16 21:02:51.494 30554 140224743316608 GX0   Account::SetLoginState: new state: 2
+2018/08/16 21:02:51.494 30554 140224634021632 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: ea4cfa6f-1233-4cc0-a053-63c8fa3b999d)
+2018/08/16 21:02:51.580 30554 140224743316608 GX0   SystemID m=1 s=0 ee7bcd4b56854faf81ea331728e2a129
+2018/08/16 21:02:51.586 30554 140224743316608 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1037623673 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2018/08/16 21:02:51.721 30554 140224617236224 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "1037623673", TSUserID "1037623673", ServerID "1037623673"
+2018/08/16 21:02:51.721 30554 140224743316608 GX0   ManagerHolderStateMachine: Switching from None to ReadyForLogin
+2018/08/16 21:02:51.721 30554 140224634021632 GX0   ChatManager::ChatManager: created
+2018/08/16 21:02:51.721 30554 140224634021632 GX0   ChatManager::Factory: ChatManager created
+2018/08/16 21:02:51.722 30554 140224617236224 GX0   SetUserLoggedIn(0x3dab5d0): changed to: 1
+2018/08/16 21:02:51.722 30554 140224634021632 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2018/08/16 21:02:51.722 30554 140224617236224 GX0   SetSessionLocked: 0x3dab5d0 : Unlocked
+2018/08/16 21:02:51.722 30554 140224634021632 GX0   IncomingChatCommandRegistration::Start: registering for ready state properties
+2018/08/16 21:02:51.722 30554 140224617236224 GX0   IpcRouterClock: received router time: 20180817T010251.560101
+2018/08/16 21:02:51.722 30554 140224617236224 GX0   IpcRouterClock: received router time: 20180817T010251.523101
+2018/08/16 21:02:51.722 30554 140224634021632 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 6d715b9d-21f7-4b14-b8a6-f99a45ebd8bf)
+2018/08/16 21:02:51.722 30554 140224634021632 GX0   IncomingChatCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2018/08/16 21:02:51.722 30554 140224743316608 GX0   Initialised XFixes extension (base=87 error=140)
+2018/08/16 21:02:55.653 30554 140224743316608 GX0   DBusStatusNotifier: active [0/1] (4)
+2018/08/16 21:03:17.869 30554 140224625628928 GX0   Connection incoming, sessionID = -1422831026
+2018/08/16 21:03:17.925 30554 140224617236224 GX0   Received Control_InitIPC processtype=4
+2018/08/16 21:03:17.858 30623 140685644699648 DX0   Logger started.
+2018/08/16 21:03:17.859 30623 140685644699648 DX0   Found 0 core dump files ...
+2018/08/16 21:03:17.860 30623 140685644699648 DX0   systemd: logind service available
+2018/08/16 21:03:17.861 30623 140685644699648 DX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='c2', canGraphical=1, canTTY=1, canMultiSession=1]
+2018/08/16 21:03:17.861 30623 140685644699648 DX0   LogindSessionInfo: New session LogindSessionInfo [id=c2 user=ben state=user active=1 reliable=1 infoId=3353246491] [path=/org/freedesktop/login1/session/c2 TTY= seat=seat0 display=:0 vtnr=7 owner=[SysUser: ben [uid=1000, gid=1000 home=/home/ben gecos=ben fitzpatrick shell=/bin/bash]] idle=0(0) active=1 type=x11 class=user state=active timestamp=1534455001683536 service=lightdm defaultCG= leader=447 audit=0 remote=0 rHost= rUser= killProc=0]
+2018/08/16 21:03:17.862 30623 140685644699648 DX0   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2018/08/16 21:03:17.862 30623 140685644699648 DX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2018/08/16 21:03:17.863 30623 140685644699648 DX0   SysSessionInfoManager: own session cache set to '3353246491'
+2018/08/16 21:03:17.867 30623 140685644699648 DX0   TeamViewerDesktop started, PID=30623 IPC=5939 module=FI
+2018/08/16 21:03:17.872 30623 140685644699648 DX0   Initialised XRandR extension 1.5 (base=89 error=147)
+2018/08/16 21:03:17.872 30623 140685644699648 DX0   ==== Open Desktop! ====
+2018/08/16 21:03:17.873 30623 140685644699648 DX0   Initialized XTest (event=0, error=0, version=2.2)
+2018/08/16 21:03:17.873 30623 140685644699648 DX0   Initialised XDamage extension (base=91 error=152)
+2018/08/16 21:03:17.873 30623 140685644699648 DX0   Initialised XFixes extension (base=87 error=140)
+2018/08/16 21:03:17.873 30623 140685644699648 DX0   XShm: Initialised MIT-SHM extension (base=65 error=128)
+2018/08/16 21:03:17.881 30623 140685644699648 DX0   MonitorInfo: [XRandR 1.2] CRTC eDP1 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2018/08/16 21:03:17.881 30623 140685644699648 DX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2018/08/16 21:03:17.881 30623 140685644699648 DX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2018/08/16 21:03:17.881 30623 140685644699648 DX0   MonitorInfo: [XRandR 1.2] CRTC 3 has no outputs
+2018/08/16 21:03:17.881 30623 140685644699648 DX0   Virtual Desktop [0, 0, 1920, 1080]
+2018/08/16 21:03:17.881 30623 140685644699648 DX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2018/08/16 21:03:17.881 30623 140685644699648 DX0   Opening local TCP connection to 127.0.0.1:5939
+2018/08/16 21:03:17.881 30623 140685411874560 DX0   Local TCP connection established
+2018/08/16 21:03:17.930 30623 140685403481856 DX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2018/08/16 21:03:17.935 30623 140685411874560 DX0   Received Control_InitIPC_Response processtype=1
+2018/08/16 21:03:17.936 30623 140685411874560 DX0   Received Control_InitIPC_Response runningProcesses=7
+2018/08/16 21:03:17.946 30623 140685411874560 DX0   Received Control_InitIPC_Response processtype=2
+2018/08/16 21:03:17.946 30623 140685411874560 DX0   Control_InitIPC_Response: all processes 7 completely initialized
+2018/08/16 21:03:17.948 30623 140685644699648 DX0   InterProcessBase::SecureNetwork created
+2018/08/16 21:03:17.951 30623 140685644699648 DX0   SetUserLoggedIn(0x2bcbc60): changed to: 1
+2018/08/16 21:03:17.951 30623 140685403481856 DX0   Connection incoming, sessionID = -1422831026
+2018/08/16 21:03:17.951 30623 140685403481856 DX0   SetUserLoggedIn(0x2bcbc60): changed to: 1
+2018/08/16 21:03:17.951 30623 140685258524416 DX0   CLogin::run()
+2018/08/16 21:03:17.951 30623 140685403481856 DX0   SetSessionLocked: 0x2bcbc60 : Unlocked
+2018/08/16 21:03:17.951 30623 140685258524416 DX0   CLogin::NegotiateVersionServer()
+2018/08/16 21:03:17.952 30623 140685403481856 DX0   IpcRouterClock: received router time: 20180817T010317.924101
+2018/08/16 21:03:17.963 30623 140685644699648 DX0   XSM: Initialised X Session Management (xfce4-session, 4.12.1) [14]
+2018/08/16 21:03:18.171 30623 140685258524416 DX0   CLoginServer::CheckIfConnectionIsAllowed()
+2018/08/16 21:03:18.213 30623 140685258524416 DX0   LoginServer::runServer: using condition set: {}
+2018/08/16 21:03:18.213 30623 140685258524416 DX0   CLoginServer::AuthenticateServer()
+2018/08/16 21:03:18.214 30623 140685258524416 DX0   SystemID m=1 s=1 ee7bcd4b56854faf81ea331728e2a129
+2018/08/16 21:03:21.289 30623 140685258524416 DX0   AuthenticationPasswordLogin_Passive::RunAuthenticationMethod: authentication using dynamic password was successful
+2018/08/16 21:03:21.486 30623 140685258524416 DX0   CLoginServer::runServer: ConnectionMode == 1
+2018/08/16 21:03:21.486 30623 140685258524416 DX0   SessionManagerDesktop::ChangeToServermode: creating session with TVSessionID = -1422831026
+2018/08/16 21:03:21.497 30623 140685258524416 DX0   Initialised Xkb extension (event=85, error=137, version=1.0)
+2018/08/16 21:03:21.497 30623 140685258524416 DX0   Initialized XTest (event=0, error=0, version=2.2)
+2018/08/16 21:03:21.497 30623 140685258524416 DX0!  X11Keyboard: no key code found for modifier 5 (0x20)
+2018/08/16 21:03:21.498 30623 140685258524416 DX0   WorkstationLocker::SetInitialSessionLockState() TVSessionID: -1422831026 auto lock: 0
+2018/08/16 21:03:21.498 30623 140685258524416 DX0   WindowObserver::SessionStart: -1; type: 1
+2018/08/16 21:03:21.504 30623 140685248005888 DX0   DesktopThread started, number of Cores: 4
+2018/08/16 21:03:21.504 30623 140685258524416 DX0   SessionManagerDesktop::ReportSession(): report incoming session -> isManagedDevice: 0; reportIncomingSession setting: 0
+2018/08/16 21:03:21.504 30623 140685258524416 DX0   CLogin::run() leave
+2018/08/16 21:03:21.504 30623 140685258524416 DX0   weakJoin - thread {Not-any-thread} has succesfully detached itself
+2018/08/16 21:03:21.508 30623 140685395089152 DX0!! X Error 3 on :0, Req 3.0 [X_GetWindowAttributes] (#19 r4294967295): BadWindow (invalid Window parameter), Errorcode=11
+2018/08/16 21:03:21.509 30623 140685395089152 DX0!! X Error 3 on :0, Req 3.0 [X_GetWindowAttributes] (#21 r0): BadWindow (invalid Window parameter), Errorcode=11
+2018/08/16 21:03:21.509 30623 140685395089152 DX0!! GuiWindowCheckLin::CheckForValidGUIWindows: n(-1) !IsViewable, m(-1)  count 0, Errorcode=11
+2018/08/16 21:03:21.613 30623 140685411874560 DX0!! X Error 3 on :0, Req 3.0 [X_GetWindowAttributes] (#23 r4294967295): BadWindow (invalid Window parameter), Errorcode=11
+2018/08/16 21:03:21.614 30623 140685411874560 DX0!! X Error 3 on :0, Req 3.0 [X_GetWindowAttributes] (#25 r0): BadWindow (invalid Window parameter), Errorcode=11
+2018/08/16 21:03:21.614 30623 140685411874560 DX0!! GuiWindowCheckLin::CheckForValidGUIWindows: n(-1) !IsViewable, m(-1)  count 1, Errorcode=11
+2018/08/16 21:03:21.658 30623 140685395089152 DX0   CParticipantManagerBase participant ArcoLemur (ID [1037623673,-1422831026]) was added with the role 3
+2018/08/16 21:03:21.658 30623 140685395089152 DX0   New Participant added in CParticipantManager ArcoLemur ([1037623673,-1422831026])
+2018/08/16 21:03:21.659 30623 140685403481856 DX0   CParticipantManagerBase participant Bens-MacBook-Pro.local (ID [680258588,1328999192]) was added with the role 6
+2018/08/16 21:03:21.659 30623 140685403481856 DX0   New Participant added in CParticipantManager Bens-MacBook-Pro.local ([680258588,1328999192])
+2018/08/16 21:03:21.688 30554 140224743316608 GX0   CServerSessionRecorder::AutoStart: AutoStart recording function called and not activated (auto recording of incoming RemoteControl not activated)
+2018/08/16 21:03:21.688 30554 140224743316608 GX0   CServerSessionRecorder::AutoStart: AutoStart recording function called and not activated (auto recording of incoming RemoteControl not activated)
+2018/08/16 21:03:21.704 30623 140685411874560 DX0   SendInfo() executed.
+2018/08/16 21:03:21.706 30623 140685143439104 DX0   GuiWindowCheckBase::CheckForValidGUIWindows() ok
+2018/08/16 21:03:21.707 30623 140685395089152 DX0   SendInfo() executed.
+2018/08/16 21:03:21.754 30623 140685403481856 DX0   CParticipantManagerBase InteractionDefaults arrived : CInteractionDefaults = (0) [ 0,2,0,0,2,0,0]
+2018/08/16 21:03:21.772 30554 140224634021632 GX0   CParticipantManagerBase participant ArcoLemur (ID [1037623673,-1422831026]) was added with the role 3
+2018/08/16 21:03:21.772 30554 140224634021632 GX0   New Participant added in CParticipantManager ArcoLemur ([1037623673,-1422831026])
+2018/08/16 21:03:21.772 30554 140224634021632 GX0   CParticipantManagerBase participant Bens-MacBook-Pro.local (ID [680258588,1328999192]) was added with the role 6
+2018/08/16 21:03:21.772 30554 140224634021632 GX0   New Participant added in CParticipantManager Bens-MacBook-Pro.local ([680258588,1328999192])
+2018/08/16 21:03:21.776 30554 140224634021632 GX0   CParticipantManagerBase::CheckAndSubscribeNewStream(): Subscribe stream now streamID=5 type=5 required=1 supported=1
+2018/08/16 21:03:21.776 30554 140224634021632 GX0   CParticipantManagerBase InteractionDefaults arrived : CInteractionDefaults = (0) [ 0,2,0,0,2,0,0]
+2018/08/16 21:03:21.898 30554 140224608843520 GX0   CServerThreadInfo unknown commandtype=95
+2018/08/16 21:03:21.899 30623 140685143439104 DX0   InfoCommandHandlerDesktop::ReceivedInfo: connected to 680258588, client version is 13.1.4170 , OS=4096
+2018/08/16 21:03:21.899 30554 140224634021632 GX0   ServerThreadInfo connected to 680258588, client version is 13.1.4170 , OS=4096
+2018/08/16 21:03:21.899 30623 140685143439104 DX0   DisplayQuality m=0, bpp=32, q=80, echo=-1, conRating=2, cpu=14000, capacity=4517, RTT=0, reliability=1, disable animation=1 remove wallpaper=0
+2018/08/16 21:03:21.900 30623 140685248005888 DX0   Initialised X Shared Memory Grabbing - 1920x1080, bpp=32
+2018/08/16 21:03:21.900 30623 140685143439104 DX0   ConnectionAccessControl => RCAccessControl: RemoteControl='Invalid access value', FileTransfer='Invalid access value', ControlRemoteTV='Invalid access value', SwitchSides='Invalid access value', AllowDisableRemoteInput='Invalid access value', AllowVPN='Invalid access value', AllowPartnerViewDesktop='Invalid access value', ShareMyFiles='Invalid access value', ShareFilesWithMe='Invalid access value', PrintOnMyPrinters='Invalid access value', PrintOnRemotePrinters='Invalid access value', SessionRecording='Invalid access value'
+2018/08/16 21:03:21.900 30554 140224617236224 GX0   CServerThreadInfo::Received_AccessControlSettings: RCAccessControl: RemoteControl='Allowed', FileTransfer='Allowed', ControlRemoteTV='Allowed', SwitchSides='Allowed', AllowDisableRemoteInput='Allowed', AllowVPN='Allowed', AllowPartnerViewDesktop='Allowed', ShareMyFiles='Allowed', ShareFilesWithMe='Allowed', PrintOnMyPrinters='Allowed', PrintOnRemotePrinters='Allowed', SessionRecording='Allowed'
+2018/08/16 21:03:21.901 30623 140685248005888 DX0   ==== Re-Open Desktop! ====
+2018/08/16 21:03:21.901 30623 140685395089152 DX0   StreamControlDesktop::StreamRegistered: Registered Clipboard Stream (00000009)
+2018/08/16 21:03:21.903 30623 140685248005888 DX0   Initialized XTest (event=0, error=0, version=2.2)
+2018/08/16 21:03:21.904 30623 140685248005888 DX0   Initialised XDamage extension (base=91 error=152)
+2018/08/16 21:03:21.904 30623 140685248005888 DX0   Initialised XFixes extension (base=87 error=140)
+2018/08/16 21:03:21.904 30623 140685248005888 DX0   XShm: Initialised MIT-SHM extension (base=65 error=128)
+2018/08/16 21:03:21.904 30623 140685248005888 DX0   Initialised X Shared Memory Grabbing - 1920x1080, bpp=32
+2018/08/16 21:03:21.936 30623 140685248005888 DX0   first fullscreen grab time in ms = 31
+2018/08/16 21:03:21.946 30623 140685248005888 DX0   Desktop: Grabbed screen is ok.
+2018/08/16 21:03:21.947 30623 140685403481856 DX0   Desktop grab succeeded.
+2018/08/16 21:03:21.948 30623 140685411874560 DX0   Desktopencoding: Tiles, buffer depth=32bpp, transmitted color depth=8bpc, features=127
+2018/08/16 21:03:21.960 30623 140685411874560 DX0   Tile caching activated
+2018/08/16 21:03:21.961 30623 140685411874560 DX0   CScreenStreamSender::SendDisplayParams() 1920x1080x32 on 10 to 3
+2018/08/16 21:03:21.995 30623 140685411874560 DX0   Max cache size: 409.60 MB for stream 10
+2018/08/16 21:03:22.078 30623 140685143439104 DX0   Received cache version 2 from [680258588,1328999192]
+2018/08/16 21:03:22.109 30623 140685395089152 DX0   Caching activated, partners version is 2, own version is 2
+2018/08/16 21:03:23.212 30623 140685403481856 DX0   Initialized XTest (event=0, error=0, version=2.2)
+2018/08/16 21:03:32.914 30623 140685143439104 DX0   DisplayQuality m=0, bpp=32, q=95, echo=4, conRating=3, cpu=14000, capacity=119932, RTT=3067, reliability=2, disable animation=1 remove wallpaper=0
+2018/08/16 21:03:32.943 30623 140685143439104 DX0   CScreenStreamSender::SendDisplayParams() 1920x1080x32 on 10 to 3
+2018/08/16 21:04:51.503 30623 140685403481856 DX0!  X11Keyboard: no key code found for modifier 5 (0x20)

@@ -1,0 +1,16 @@
+[CLIENT] 0x4400013
+  [WM_NAME] appear.in screen sharing is sharing your screen with appear.in.
+  [GEOMETRY] (650,997,621,52)
+  [GEOMETRY-MAXIMIZED] (650,997,621,52)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x8080
+[CLIENT] 0x4400001
+  [RES_NAME] google-chrome
+  [RES_CLASS] Google-chrome
+  [WM_NAME] appear.in – one click video conversations - Google Chrome
+  [GEOMETRY] (0,30,1920,1019)
+  [GEOMETRY-MAXIMIZED] (10,30,945,1029)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380

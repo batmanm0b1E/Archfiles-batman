@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html ng-app="videoconference-with-sideeffects">
+    <head>
+        <!--[if lte IE 9]><script>window.location = "/error/ie.html";</script><![endif]-->
+        <title with-notification-count>appear.in â€“ one click video conversations</title>
+        <base href="/">
+        <meta
+            name="Description"
+            content="Video conversations with up to 4 people for free - no login, no downloads. Create a video room. Share the link. Appear together. Try it now at https://appear.in">
+        <script>
+            // Load Typekit in a non-blocking manner
+            (function(d) {
+                var config = {
+                        kitId: 'foj7ell',
+                        scriptTimeout: 3000,
+                        async: true
+                    },
+                    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+            })(document);
+        </script>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" />
+
+        <link rel="stylesheet" href="https://d1x2efl61akomv.cloudfront.net/styles/main.8c3c0522.css">
+
+        <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/bodncoafpihbhpfljcaofnebjkaiaiga" />
+
+        <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://d1x2efl61akomv.cloudfront.net/images/icons/apple-touch-icon-57x57.186a6ca8.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://d1x2efl61akomv.cloudfront.net/images/icons/apple-touch-icon-60x60.2700bdf9.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://d1x2efl61akomv.cloudfront.net/images/icons/apple-touch-icon-72x72.4ca7fb0d.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://d1x2efl61akomv.cloudfront.net/images/icons/apple-touch-icon-76x76.6193f67d.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://d1x2efl61akomv.cloudfront.net/images/icons/apple-touch-icon-114x114.1954d270.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://d1x2efl61akomv.cloudfront.net/images/icons/apple-touch-icon-120x120.41667526.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://d1x2efl61akomv.cloudfront.net/images/icons/apple-touch-icon-144x144.e9018f52.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://d1x2efl61akomv.cloudfront.net/images/icons/apple-touch-icon-152x152.b380d207.png" />
+        <link rel="icon" type="image/png" href="https://d1x2efl61akomv.cloudfront.net/images/icons/favicon-196x196.f3107bab.png" sizes="196x196" />
+        <link rel="icon" type="image/png" href="https://d1x2efl61akomv.cloudfront.net/images/icons/favicon-16x16.5eeb73bd.png" sizes="16x16" />
+        <link rel="icon" type="image/png" href="https://d1x2efl61akomv.cloudfront.net/images/icons/favicon-32x32.d0d38f97.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="https://d1x2efl61akomv.cloudfront.net/images/icons/favicon-96x96.2013beb2.png" sizes="96x96" />
+        <link rel="icon" type="image/png" href="https://d1x2efl61akomv.cloudfront.net/images/icons/favicon-128.a1be2c7a.png" sizes="128x128" />
+
+        <!-- The manifest necessarily needs to be hosted on appear.in and not the CDN -->
+        <link rel="manifest" href="assets/manifest.json" />
+
+        <meta name="application-name" content="&nbsp;"/>
+        <meta name="msapplication-TileColor" content="#FFFFFF" />
+        <meta name="msapplication-square70x70logo" content="https://d1x2efl61akomv.cloudfront.net/images/icons/mstile-70x70.f1c7534e.png" />
+        <meta name="msapplication-TileImage" content="https://d1x2efl61akomv.cloudfront.net/images/icons/mstile-144x144.e9018f52.png" />
+        <meta name="msapplication-square150x150logo" content="https://d1x2efl61akomv.cloudfront.net/images/icons/mstile-150x150.98d479da.png" />
+        <meta name="msapplication-square310x310logo" content="https://d1x2efl61akomv.cloudfront.net/images/icons/mstile-310x310.ff504f29.png" />
+        <meta name="theme-color" content="#ff2e63">
+        <meta name="msapplication-navbutton-color" content="#ff2e63">
+        <meta name="apple-mobile-web-app-status-bar-style" content="#ff2e63">
+
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="appear.in" />
+        <meta property="og:site_name" content="appear.in" />
+        <meta property="og:image" content="https://d1x2efl61akomv.cloudfront.net/images/appearin-opengraph.db87e795.png" />
+        <meta property="og:description" content="Video conversations with up to 4 people for free - no login, no downloads. Create a video room. Share the link. Appear together. Try it now at https://appear.in" />
+        <meta property="og:url" content="https://appear.in/" />
+        <meta property="fb:app_id" content="1411558269071152"/>
+
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, user-scalable=0">
+    </head>
+    <body>
+    <ai-modal-container class="jstest-ai-modal-container"></ai-modal-container>
+
+        <div class="wrapper frontpage-content-wrapper" ng-view></div>
+        <noscript>
+            <div class="description-section even">
+                <section>
+                    <p>This page requires JavaScript and a modern browser to function correctly.</p>
+                    <h1>How it works</h1>
+                    <div class="left-column">
+                        <h2>No login or downloads</h2>
+                        <p>appear.in aims to make it super-easy to start talking over video. Therefore, we do not require you to register an account or download anything. The link to your room is all you need to connect to those you want to talk to. All you need is yourself, someone to talk to and a supported browser.</p>
+
+                        <h2>Easy to invite anyone</h2>
+                        <p>You can create a room whenever you want to, and use any room name. In fact, you don't even have to visit our front page, you can just type in "appear.in/roomname" in the address bar in your browser, and you'll enter directly into the room! Anyone who enters the same room link as you, will come into your room.</p>
+
+                        <h2>Peer-to-peer</h2>
+                        <p>appear.in uses peer-to-peer communication, meaning that the video streams are sent directly between you and the people you are talking to. Nothing is stored on our server and all the communication is encrypted over SSL.</p>
+                    </div>
+                    <div class="right-column">
+                        <h2>Supported browsers</h2>
+                        You can use appear.in in these browsers:
+                        <div class="icons">
+                            <ul>
+                                <li class="browser-icon">
+                                <a href="https://www.google.com/chrome" target="_blank">
+                                    <img height="64" width="64" alt="chrome" src="https://d1x2efl61akomv.cloudfront.net/images/chrome-logo.35b66b17.svg" />
+                                    <span>Chrome</span>
+                                </a>
+                                </li><li class="browser-icon">
+                                <a href="https://www.mozilla.org/firefox" target="_blank">
+                                    <img height="64" width="64" alt="firefox" src="https://d1x2efl61akomv.cloudfront.net/images/firefox_128x128.7b9e6fe7.png" />
+                                    <span>Firefox</span>
+                                </a>
+                                </li><li class="browser-icon">
+                                <a href="http://www.opera.com/" target="_blank">
+                                    <img height="64" width="64" alt="opera" src="https://d1x2efl61akomv.cloudfront.net/images/opera-logo.9b53b02f.png" />
+                                    <span>Opera</span>
+                                </a>
+                                </li>
+                            </ul>
+                            <p>appear.in is built with a technology called WebRTC. For you this means no plugins or installation. Currently WebRTC is only supported in the browsers above.</p>
+                        </div>
+                        <h2>Help!</h2>
+                        <p>Check out our <a href="/information/faq">FAQ</a> to find answers to the most common questions our users have. If you can't find the answer you're looking for, shoot us an <a href="mailto:feedback@appear.in">email</a>.</p>
+
+                        <h2>Press</h2>
+                        <p>Resources for journalists and bloggers, such as logos, team photos, press releases can be found <a href="/information/press">here</a>.</p>
+                    </div>
+                </section>
+            </div>
+
+            <div class="description-section">
+                <section>
+                    <div class="left-column">
+                        <h1>Give us feedback</h1>
+                        <p>If you need help, or just want to tell us how you like appear.in, contact us at <a href="mailto:feedback@appear.in">feedback@appear.in</a>. Check out our blog at <a href="http://blog.appear.in">blog.appear.in</a> to read about recent updates.</p>
+                        <h2>Get updates</h2>
+                        <p>Be the first to know about improvements in appear.in! Sign up to our mailinglist to receive news and invitations to give your opinion about future features in appear.in.</p>
+                        <form class="subscribe-newsletter inline" action="http://appear.us2.list-manage.com/subscribe/post?u=5919921b6414f5578ff5b7750&amp;id=fcc8f9fc1a" method="post" id="mc-embedded-subscribe-form" class="validate" target="_blank" ng-hide="newsletterSignupButtonPressed">
+                            <input type="email" placeholder="your@email.com" value="" name="EMAIL" class="required email">
+                            <button type="submit" class="pink-button" name="subscribe">Subscribe</button>
+                        </form>
+                    </div>
+                </section>
+            </div>
+            <footer class="frontpage-footer">
+                A product by <a href="https://appear.in">Video Communication Services AS</a>.
+            </footer>
+        </noscript>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+
+    <script src="https://d1x2efl61akomv.cloudfront.net/scripts/libs-external.a8e02da6.js"></script>
+
+    <script src="https://d1x2efl61akomv.cloudfront.net/scripts/libs.684204b6.js"></script>
+
+    <script src="https://d1x2efl61akomv.cloudfront.net/scripts/templates.d0786157.js"></script>
+
+    <script src="https://d1x2efl61akomv.cloudfront.net/scripts/main.556f1652.js"></script>
+
+    <!-- Stripe needs to be loaded directly from CDN. See https://stripe.com/docs/stripe.js -->
+    <script src="https://js.stripe.com/v3/"></script>
+
+    </body>
+</html>
+çO¾#‹Í      [w(r[w(r?g¡°[wC¼   0    :https://appear.in/%7B%7B%20checkedIcon%20%7D%7D necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+ETag: "3a4b8dc95e8cc43d5250f547035a554c"
+Accept-Ranges: bytes
+Content-Type: text/html; charset=utf-8
+Content-Length: 11790
+Strict-Transport-Security: max-age=10886400
+x-amz-id-2: c207t4iVmcPH05O1SxDAXfICnlz70PhKDz9/mTm1IWP4vUcYRWsRPmSVdeyk6hvKBiUly1rvHc0=
+x-amz-request-id: D27241E4A4E16037
+Date: Fri, 17 Aug 2018 18:55:11 GMT
+Last-Modified: Thu, 16 Aug 2018 13:16:48 GMT
+x-amz-meta-revision: 542b5f7
+Server: AmazonS3
+ original-response-headers x-amz-id-2: S3g+pNIqukNXCD6oLupwZh+R8Vc2JWLjKw1Z7UWGj/b5t8lpr68inyn89hBKK2U74fDdrJqgGbM=
+x-amz-request-id: C8D839D395CEF49C
+Date: Thu, 16 Aug 2018 21:30:44 GMT
+Last-Modified: Thu, 16 Aug 2018 13:16:48 GMT
+ETag: "3a4b8dc95e8cc43d5250f547035a554c"
+x-amz-meta-revision: 542b5f7
+Accept-Ranges: bytes
+Content-Type: text/html; charset=utf-8
+Content-Length: 11790
+Server: AmazonS3
+Strict-Transport-Security: max-age=10886400
+ uncompressed-len 0 net-response-time-onstart 128 net-response-time-onstop 131   .

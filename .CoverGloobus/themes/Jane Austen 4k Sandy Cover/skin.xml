@@ -1,0 +1,14 @@
+<!--
+Jane Asuten II Covergloobus by Dobbie03
+
+-->
+
+  <skin name="Jane Austen Sandy + Cover" width="1920" height="210">
+<albumname x="230" y="40" width="1300" align="left" maxchars="136" font="Acens 15" color="#ffffffff" />  
+<artistname x="260" y="65" width="1300" font="Jane Austen 20" align="left" color="#B6A49Bff"  maxchars="155" scroll="true" />
+  <titlename x="230" y="125" width="1300" font="Acens 15" align="left" color="#ffffff6f"  maxchars="155" scroll="true" />
+<image src="nocover.png" x="0" y="0" width="200" height="200"/>
+<albumcover x="0" y="0" width="200" height="200" round="0"  mask="Maschera.png"/>
+<image src="Cerchio.png" x="0" y="0" width="200" height="200" opacity="0.9" />
+      </skin>
+

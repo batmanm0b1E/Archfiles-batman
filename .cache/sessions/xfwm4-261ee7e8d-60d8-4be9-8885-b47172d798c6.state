@@ -1,0 +1,39 @@
+[CLIENT] 0x4800003
+  [CLIENT_ID] 25060bb3e-0c3e-4b86-a257-fb577fd6fb64
+  [CLIENT_LEADER] 0x4800001
+  [WINDOW_ROLE] xfce4-terminal-1535395352--859141514
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - ben@ArcoLemur:~/.config/polybar
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (3,59,814,524)
+  [GEOMETRY-MAXIMIZED] (3,29,814,483)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x1800007
+  [CLIENT_ID] 2b9a66a47-1b2b-4e2e-b0d9-31de87d105bd
+  [CLIENT_LEADER] 0x1800001
+  [WINDOW_ROLE] Thunar-1535395610-377430556
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] bin - File Manager
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (0,59,1920,990)
+  [GEOMETRY-MAXIMIZED] (640,299,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3800011
+  [CLIENT_ID] 29bc4e20a-a0e0-4091-a081-736864569009
+  [CLIENT_LEADER] 0x3800001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] Firefox
+  [WM_NAME] appear.in – one click video conversations - Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,59,1920,990)
+  [GEOMETRY-MAXIMIZED] (640,149,1280,900)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380

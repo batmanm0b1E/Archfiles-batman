@@ -1,0 +1,440 @@
+gpg-agent[524]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:516): xfce4-session-WARNING **: 14:00:45.075: gpg-agent returned no PID in the variables
+
+(xfce4-session:516): xfce4-session-WARNING **: 14:00:45.076: xfsm_manager_load_session: Something wrong with /home/ben/.cache/sessions/xfce4-session-ArcoLemur:0, Does it exist? Permissions issue?
+ERROR: ld.so: object 'libcurl.so.3' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+
+(xfce4-session:516): xfce4-session-WARNING **: 14:00:45.114: Unable to launch "/usr/bin/start-conky" (specified by autostart/conky.desktop): Failed to execute child process “/usr/bin/start-conky” (No such file or directory)
+/usr/share/spotify/spotify: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /usr/share/spotify/spotify)
+conky: desktop window (169) is root window
+conky: window type - normal
+conky: drawing to created window (0x1400002)
+conky: drawing to double buffer
+conky: forked to background, pid is 567
+
+
+(xfsettingsd:538): Gtk-WARNING **: 14:00:45.241: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:538): Gtk-WARNING **: 14:00:45.241: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:538): Gtk-WARNING **: 14:00:45.241: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:538): Gtk-WARNING **: 14:00:45.242: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:538): Gtk-WARNING **: 14:00:45.242: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:538): Gtk-WARNING **: 14:00:45.242: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:538): Gtk-WARNING **: 14:00:45.242: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:538): Gtk-WARNING **: 14:00:45.242: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:538): Gtk-WARNING **: 14:00:45.243: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:538): Gtk-WARNING **: 14:00:45.243: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:538): Gtk-WARNING **: 14:00:45.243: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:516): Gtk-WARNING **: 14:00:45.246: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:516): Gtk-WARNING **: 14:00:45.246: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:516): Gtk-WARNING **: 14:00:45.246: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:516): Gtk-WARNING **: 14:00:45.248: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:516): Gtk-WARNING **: 14:00:45.248: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:516): Gtk-WARNING **: 14:00:45.248: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:516): Gtk-WARNING **: 14:00:45.248: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:516): Gtk-WARNING **: 14:00:45.249: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:516): Gtk-WARNING **: 14:00:45.249: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:516): Gtk-WARNING **: 14:00:45.249: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:516): Gtk-WARNING **: 14:00:45.249: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:536): Gtk-WARNING **: 14:00:45.269: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:536): Gtk-WARNING **: 14:00:45.270: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:536): Gtk-WARNING **: 14:00:45.270: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:536): Gtk-WARNING **: 14:00:45.272: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:536): Gtk-WARNING **: 14:00:45.272: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:536): Gtk-WARNING **: 14:00:45.272: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:536): Gtk-WARNING **: 14:00:45.273: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:536): Gtk-WARNING **: 14:00:45.274: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:536): Gtk-WARNING **: 14:00:45.274: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:536): Gtk-WARNING **: 14:00:45.274: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:536): Gtk-WARNING **: 14:00:45.276: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:532): Gtk-WARNING **: 14:00:45.286: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:532): Gtk-WARNING **: 14:00:45.287: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:532): Gtk-WARNING **: 14:00:45.287: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:532): Gtk-WARNING **: 14:00:45.289: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:532): Gtk-WARNING **: 14:00:45.289: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:532): Gtk-WARNING **: 14:00:45.289: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:532): Gtk-WARNING **: 14:00:45.289: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:532): Gtk-WARNING **: 14:00:45.291: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:532): Gtk-WARNING **: 14:00:45.291: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:532): Gtk-WARNING **: 14:00:45.291: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:532): Gtk-WARNING **: 14:00:45.291: Unable to locate theme engine in module_path: "murrine",
+Error org.freedesktop.DBus.Error.ServiceUnknown: The name org.mpris.MediaPlayer2.spotify was not provided by any .service files
+polybar|error: Disabling module "i3" (reason: Could not find socket: <empty>)
+Usage: grep [OPTION]... PATTERN [FILE]...
+Try 'grep --help' for more information.
+
+(spotify:540): Gtk-WARNING **: 14:00:45.436: Unable to locate theme engine in module_path: "murrine",
+
+(spotify:540): Gtk-WARNING **: 14:00:45.444: Unable to locate theme engine in module_path: "murrine",
+
+(spotify:540): Gtk-WARNING **: 14:00:45.444: Unable to locate theme engine in module_path: "murrine",
+
+(spotify:540): Gtk-WARNING **: 14:00:45.449: Unable to locate theme engine in module_path: "murrine",
+
+(spotify:540): Gtk-WARNING **: 14:00:45.449: Unable to locate theme engine in module_path: "murrine",
+
+(spotify:540): Gtk-WARNING **: 14:00:45.449: Unable to locate theme engine in module_path: "murrine",
+
+(spotify:540): Gtk-WARNING **: 14:00:45.450: Unable to locate theme engine in module_path: "murrine",
+
+(spotify:540): Gtk-WARNING **: 14:00:45.452: Unable to locate theme engine in module_path: "murrine",
+
+(spotify:540): Gtk-WARNING **: 14:00:45.452: Unable to locate theme engine in module_path: "murrine",
+
+(spotify:540): Gtk-WARNING **: 14:00:45.452: Unable to locate theme engine in module_path: "murrine",
+
+(spotify:540): Gtk-WARNING **: 14:00:45.452: Unable to locate theme engine in module_path: "murrine",
+Error org.freedesktop.DBus.Error.ServiceUnknown: The name org.mpris.MediaPlayer2.spotify was not provided by any .service files
+rm: cannot remove 'wget-log': No such file or directory
+Usage: grep [OPTION]... PATTERN [FILE]...
+Try 'grep --help' for more information.
+
+(xfsettingsd:538): xfsettingsd-WARNING **: 14:00:45.584: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+ERROR: ld.so: object 'libcurl.so.3' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+/usr/share/spotify/spotify: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /usr/share/spotify/spotify)
+
+(wrapper-1.0:744): Gtk-WARNING **: 14:00:45.767: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:744): Gtk-WARNING **: 14:00:45.767: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:744): Gtk-WARNING **: 14:00:45.767: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:744): Gtk-WARNING **: 14:00:45.768: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:744): Gtk-WARNING **: 14:00:45.768: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:744): Gtk-WARNING **: 14:00:45.768: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:744): Gtk-WARNING **: 14:00:45.768: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:744): Gtk-WARNING **: 14:00:45.769: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:744): Gtk-WARNING **: 14:00:45.769: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:744): Gtk-WARNING **: 14:00:45.769: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:744): Gtk-WARNING **: 14:00:45.769: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:749): Gtk-WARNING **: 14:00:45.776: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:749): Gtk-WARNING **: 14:00:45.780: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:749): Gtk-WARNING **: 14:00:45.780: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:749): Gtk-WARNING **: 14:00:45.781: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:749): Gtk-WARNING **: 14:00:45.781: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:749): Gtk-WARNING **: 14:00:45.781: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:749): Gtk-WARNING **: 14:00:45.781: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:749): Gtk-WARNING **: 14:00:45.781: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:749): Gtk-WARNING **: 14:00:45.781: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:749): Gtk-WARNING **: 14:00:45.782: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:749): Gtk-WARNING **: 14:00:45.782: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:528): Gtk-WARNING **: 14:00:45.788: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:528): Gtk-WARNING **: 14:00:45.788: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:528): Gtk-WARNING **: 14:00:45.788: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:528): Gtk-WARNING **: 14:00:45.788: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:528): Gtk-WARNING **: 14:00:45.789: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:528): Gtk-WARNING **: 14:00:45.789: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:528): Gtk-WARNING **: 14:00:45.789: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:528): Gtk-WARNING **: 14:00:45.789: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:528): Gtk-WARNING **: 14:00:45.789: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:528): Gtk-WARNING **: 14:00:45.789: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:528): Gtk-WARNING **: 14:00:45.789: Unable to locate theme engine in module_path: "murrine",
+ERROR: ld.so: object 'libcurl.so.3' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+/proc/self/exe: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /proc/self/exe)
+
+(wrapper-1.0:770): Gtk-WARNING **: 14:00:45.879: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:770): Gtk-WARNING **: 14:00:45.890: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:770): Gtk-WARNING **: 14:00:45.890: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:770): Gtk-WARNING **: 14:00:45.890: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:770): Gtk-WARNING **: 14:00:45.890: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:770): Gtk-WARNING **: 14:00:45.890: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:770): Gtk-WARNING **: 14:00:45.891: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:770): Gtk-WARNING **: 14:00:45.891: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:770): Gtk-WARNING **: 14:00:45.891: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:770): Gtk-WARNING **: 14:00:45.891: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:770): Gtk-WARNING **: 14:00:45.891: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:751): Gtk-WARNING **: 14:00:45.894: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:751): Gtk-WARNING **: 14:00:45.894: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:751): Gtk-WARNING **: 14:00:45.894: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:751): Gtk-WARNING **: 14:00:45.895: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:751): Gtk-WARNING **: 14:00:45.895: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:751): Gtk-WARNING **: 14:00:45.895: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:751): Gtk-WARNING **: 14:00:45.895: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:751): Gtk-WARNING **: 14:00:45.895: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:751): Gtk-WARNING **: 14:00:45.896: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:751): Gtk-WARNING **: 14:00:45.896: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:751): Gtk-WARNING **: 14:00:45.896: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:767): Gtk-WARNING **: 14:00:45.902: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:767): Gtk-WARNING **: 14:00:45.902: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:767): Gtk-WARNING **: 14:00:45.903: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:767): Gtk-WARNING **: 14:00:45.907: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:767): Gtk-WARNING **: 14:00:45.913: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:767): Gtk-WARNING **: 14:00:45.913: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:767): Gtk-WARNING **: 14:00:45.913: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:767): Gtk-WARNING **: 14:00:45.914: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:767): Gtk-WARNING **: 14:00:45.914: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:767): Gtk-WARNING **: 14:00:45.914: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:767): Gtk-WARNING **: 14:00:45.914: Unable to locate theme engine in module_path: "murrine",
+weather-Message: 14:00:46.049: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=38.258202;lon=-85.452599;msl=221
+[0829/140046.052208:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+(wrapper-2.0:727): Gtk-WARNING **: 14:00:46.110: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:737): Gtk-WARNING **: 14:00:46.196: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:747): Gtk-WARNING **: 14:00:46.279: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+(pamac-tray:546): Gdk-CRITICAL **: 14:00:46.543: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+
+(blueman-applet:553): Gdk-CRITICAL **: 14:00:46.580: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(polkit-gnome-authentication-agent-1:554): GdkPixbuf-CRITICAL **: 14:00:46.658: gdk_pixbuf_composite: assertion 'dest_x >= 0 && dest_x + dest_width <= dest->width' failed
+Gtk-Message: 14:00:46.682: GtkDialog mapped without a transient parent. This is discouraged.
+
+(polkit-gnome-authentication-agent-1:554): GdkPixbuf-CRITICAL **: 14:00:50.121: gdk_pixbuf_composite: assertion 'dest_x >= 0 && dest_x + dest_width <= dest->width' failed
+Gtk-Message: 14:00:50.128: GtkDialog mapped without a transient parent. This is discouraged.
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-hinting-slight.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/10-hinting-slight.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/10-hinting-slight.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/10-hinting-slight.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/10-hinting-slight.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/10-hinting-slight.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/10-hinting-slight.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/30-metric-aliases.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/30-metric-aliases.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/30-metric-aliases.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/30-metric-aliases.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/30-metric-aliases.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/30-metric-aliases.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/30-metric-aliases.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/40-nonlatin.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/40-nonlatin.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/40-nonlatin.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/40-nonlatin.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/40-nonlatin.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/40-nonlatin.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/40-nonlatin.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-generic.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/45-generic.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/45-generic.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/45-generic.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/45-generic.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/45-generic.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/45-generic.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-latin.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/45-latin.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/45-latin.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/45-latin.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/45-latin.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/45-latin.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/45-latin.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/49-sansserif.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/49-sansserif.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/49-sansserif.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/49-sansserif.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/49-sansserif.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/49-sansserif.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/49-sansserif.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/50-user.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/50-user.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/50-user.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/50-user.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/51-local.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/51-local.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/51-local.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/51-local.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/51-local.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/51-local.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/51-local.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-generic.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/60-generic.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/60-generic.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/60-generic.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/60-generic.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/60-generic.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/60-generic.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-latin.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/60-latin.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/60-latin.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/60-latin.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/60-latin.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/60-latin.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/60-latin.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/65-fonts-persian.conf", line 34: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/65-fonts-persian.conf", line 35: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/65-fonts-persian.conf", line 35: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/65-fonts-persian.conf", line 35: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/65-fonts-persian.conf", line 36: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/65-fonts-persian.conf", line 36: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/65-nonlatin.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/65-nonlatin.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/65-nonlatin.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/65-nonlatin.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/65-nonlatin.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/65-nonlatin.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/65-nonlatin.conf", line 8: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/69-unifont.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/69-unifont.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/69-unifont.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/69-unifont.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/69-unifont.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/69-unifont.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/80-delicious.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/80-delicious.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/80-delicious.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/80-delicious.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/80-delicious.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/80-delicious.conf", line 6: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/conf.d/90-synthetic.conf", line 4: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/conf.d/90-synthetic.conf", line 5: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/conf.d/90-synthetic.conf", line 5: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/conf.d/90-synthetic.conf", line 5: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/conf.d/90-synthetic.conf", line 6: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/conf.d/90-synthetic.conf", line 6: invalid attribute 'version'
+Fontconfig error: Cannot load config file from /etc/fonts/fonts.conf
+[1085:1085:0829/140058.240935:ERROR:sandbox_linux.cc(378)] InitializeSandbox() called with multiple threads in process gpu-process.
+Gkr-Message: 14:00:58.324: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+[1047:1047:0829/140058.466210:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+[1047:1047:0829/140058.466260:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+[1047:1047:0829/140058.466287:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+[1047:1047:0829/140058.466305:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Gkr-Message: 14:00:58.544: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+Gtk-Message: 14:01:35.733: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 14:01:41.912: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 14:02:45.602: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 14:02:52.281: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 14:03:01.302: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 14:04:06.719: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 14:04:09.872: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 14:04:34.007: GtkDialog mapped without a transient parent. This is discouraged.
+[1047:1079:0829/141055.816920:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.ScreenSaver.Inhibit: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.ScreenSaver was not provided by any .service files
+[1047:1079:0829/141055.816941:ERROR:power_save_blocker_x11.cc(330)] No response to Inhibit() request!
+[535:565:0829/141056.823488:ERROR:rtpreceiver.cc(81)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[535:565:0829/141056.823657:ERROR:rtpreceiver.cc(81)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[1085:1085:0829/141102.800003:ERROR:buffer_manager.cc(461)] [.DisplayCompositor-0x39b2fec21200]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[1047:1079:0829/141102.801810:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.ScreenSaver.Inhibit: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.ScreenSaver was not provided by any .service files
+[1047:1079:0829/141102.801834:ERROR:power_save_blocker_x11.cc(330)] No response to Inhibit() request!
+[1047:1079:0829/141107.515832:ERROR:object_proxy.cc(616)] Failed to call method: org.freedesktop.ScreenSaver.UnInhibit: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.ScreenSaver was not provided by any .service files
+[1047:1079:0829/141107.515852:ERROR:power_save_blocker_x11.cc(403)] No response to Uninhibit() request!
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))

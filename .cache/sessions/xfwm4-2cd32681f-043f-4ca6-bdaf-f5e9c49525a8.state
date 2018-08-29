@@ -1,0 +1,72 @@
+[CLIENT] 0x3a00003
+  [CLIENT_ID] 2555be7ff-c069-497f-bd71-02ee935266b7
+  [CLIENT_LEADER] 0x3a00001
+  [WINDOW_ROLE] xfce4-terminal-1535479742-23924449
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - ben@ArcoLemur:~/.config/conky
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (315,97,814,524)
+  [GEOMETRY-MAXIMIZED] (315,97,814,483)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x1807d2a
+  [CLIENT_ID] 232d64150-0f8f-4cb9-8c8c-8bef15bc81a7
+  [CLIENT_LEADER] 0x1800001
+  [WINDOW_ROLE] Thunar-1535481603-2987608284
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] conky - File Manager
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (0,59,1920,990)
+  [GEOMETRY-MAXIMIZED] (640,314,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3e00001
+  [WM_NAME] Spotify
+  [GEOMETRY] (243,119,1600,900)
+  [GEOMETRY-MAXIMIZED] (243,119,1600,900)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x1600002
+  [RES_NAME] Conky
+  [RES_CLASS] Conky
+  [WM_NAME] system_conky
+  [WM_COMMAND] (2) "conky" "start-conky.desktop"
+  [GEOMETRY] (27,30,140,139)
+  [GEOMETRY-MAXIMIZED] (959,523,2,2)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x8000
+[CLIENT] 0x4800019
+  [WM_NAME] appear.in screen sharing is sharing your screen with appear.in.
+  [GEOMETRY] (650,997,621,52)
+  [GEOMETRY-MAXIMIZED] (650,997,621,52)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x8080
+[CLIENT] 0x1800007
+  [CLIENT_ID] 232d64150-0f8f-4cb9-8c8c-8bef15bc81a7
+  [CLIENT_LEADER] 0x1800001
+  [WINDOW_ROLE] Thunar-1535479672-837449037
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] covers - File Manager
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (0,59,1920,990)
+  [GEOMETRY-MAXIMIZED] (640,314,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380
+[CLIENT] 0x4800001
+  [RES_NAME] google-chrome
+  [RES_CLASS] Google-chrome
+  [WM_NAME] appear.in – one click video conversations - Google Chrome
+  [GEOMETRY] (0,30,1920,1019)
+  [GEOMETRY-MAXIMIZED] (10,30,945,1029)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380

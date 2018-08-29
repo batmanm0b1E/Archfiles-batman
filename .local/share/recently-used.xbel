@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ben/Downloads/dotfiles-master.zip" added="2018-08-16T22:05:45Z" modified="2018-08-16T22:09:34Z" visited="2018-08-16T22:05:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-08-16T22:05:45Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-08-16T22:09:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/Pictures/Screenshot_2018-08-17_15-53-57.png" added="2018-08-17T19:54:40Z" modified="2018-08-17T19:55:29Z" visited="2018-08-17T19:54:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2018-08-17T19:54:40Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-08-17T19:55:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/Downloads/Dobbie-Dot-Files-master.zip" added="2018-08-17T20:46:36Z" modified="2018-08-17T20:48:28Z" visited="2018-08-17T20:46:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-08-17T20:48:28Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/Downloads" added="2018-08-17T20:46:42Z" modified="2018-08-28T18:39:51Z" visited="2018-08-17T20:46:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2018-08-28T18:39:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/Downloads/Dobbie-Dot-Files-master.tar.gz" added="2018-08-17T20:49:47Z" modified="2018-08-17T20:49:47Z" visited="2018-08-17T20:49:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-08-17T20:49:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/launch.sh" added="2018-08-28T17:02:39Z" modified="2018-08-28T17:02:39Z" visited="2018-08-28T17:02:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-session-settings" exec="&apos;xfce4-session-settings %u&apos;" modified="2018-08-28T17:02:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/Downloads/spottermodcover.tar.gz" added="2018-08-28T18:39:21Z" modified="2018-08-28T18:39:21Z" visited="2018-08-28T18:39:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-08-28T18:39:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/Downloads/yRVeczP.png" added="2018-08-28T20:45:30Z" modified="2018-08-28T20:45:30Z" visited="2018-08-28T20:45:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2018-08-28T20:45:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/arco-xfce/archiso/packages.x86_64" added="2018-08-28T20:55:04Z" modified="2018-08-28T20:55:04Z" visited="2018-08-28T20:55:04Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2018-08-28T20:55:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/arco-xfce/installation-scripts/30-build-the-iso-local-v1.sh" added="2018-08-29T03:33:50Z" modified="2018-08-29T03:33:50Z" visited="2018-08-29T03:33:50Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2018-08-29T03:33:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/Desktop/.config.tar.gz" added="2018-08-29T18:01:45Z" modified="2018-08-29T18:01:45Z" visited="2018-08-29T18:01:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-08-29T18:01:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/Desktop/usr.tar.gz" added="2018-08-29T18:02:53Z" modified="2018-08-29T18:03:08Z" visited="2018-08-29T18:02:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-08-29T18:02:53Z" count="1"/>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2018-08-29T18:03:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/.config.tar.gz" added="2018-08-29T18:04:13Z" modified="2018-08-29T18:04:13Z" visited="2018-08-29T18:04:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-08-29T18:04:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ben/config.tar.gz" added="2018-08-29T18:04:40Z" modified="2018-08-29T18:04:40Z" visited="2018-08-29T18:04:40.532343Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2018-08-29T18:04:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

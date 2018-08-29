@@ -1,0 +1,10 @@
+[CLIENT] 0x1200002
+  [RES_NAME] Conky
+  [RES_CLASS] Conky
+  [WM_NAME] system_conky
+  [WM_COMMAND] (1) "conky"
+  [GEOMETRY] (-116,30,144,139)
+  [GEOMETRY-MAXIMIZED] (-418,28,140,139)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x8000

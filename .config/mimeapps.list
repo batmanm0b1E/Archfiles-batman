@@ -1,0 +1,5 @@
+[Added Associations]
+text/plain=atom.desktop;
+application/x-shellscript=atom.desktop;
+font/ttf=org.gnome.FontViewer.desktop;
+application/x-desktop=atom.desktop;

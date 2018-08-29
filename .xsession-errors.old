@@ -1,0 +1,263 @@
+gpg-agent[2169]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:2161): xfce4-session-WARNING **: 23:53:00.975: gpg-agent returned no PID in the variables
+
+(xfce4-session:2161): xfce4-session-WARNING **: 23:53:00.976: xfsm_manager_load_session: Something wrong with /home/ben/.cache/sessions/xfce4-session-ArcoLemur:0, Does it exist? Permissions issue?
+
+(xfce4-session:2161): xfce4-session-WARNING **: 23:53:01.007: Unable to launch "/usr/bin/start-conky" (specified by autostart/conky.desktop): Failed to execute child process “/usr/bin/start-conky” (No such file or directory)
+ERROR: ld.so: object 'libcurl.so.3' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+/usr/share/spotify/spotify: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /usr/share/spotify/spotify)
+conky: desktop window (169) is root window
+conky: window type - normal
+conky: drawing to created window (0x1200002)
+conky: drawing to double buffer
+conky: forked to background, pid is 2200
+polybar|error: Disabling module "i3" (reason: Could not find socket: <empty>)
+
+
+(xfce4-session:2161): Gtk-WARNING **: 23:53:01.101: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:2161): Gtk-WARNING **: 23:53:01.101: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:2161): Gtk-WARNING **: 23:53:01.101: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:2161): Gtk-WARNING **: 23:53:01.102: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:2161): Gtk-WARNING **: 23:53:01.102: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:2161): Gtk-WARNING **: 23:53:01.102: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:2161): Gtk-WARNING **: 23:53:01.102: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:2161): Gtk-WARNING **: 23:53:01.102: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:2161): Gtk-WARNING **: 23:53:01.102: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:2161): Gtk-WARNING **: 23:53:01.102: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-session:2161): Gtk-WARNING **: 23:53:01.103: Unable to locate theme engine in module_path: "murrine",
+ERROR: ld.so: object 'libcurl.so.3' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+
+(xfsettingsd:2181): Gtk-WARNING **: 23:53:01.119: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:2181): Gtk-WARNING **: 23:53:01.120: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:2181): Gtk-WARNING **: 23:53:01.120: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:2181): Gtk-WARNING **: 23:53:01.120: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:2181): Gtk-WARNING **: 23:53:01.121: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:2181): Gtk-WARNING **: 23:53:01.121: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:2181): Gtk-WARNING **: 23:53:01.121: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:2181): Gtk-WARNING **: 23:53:01.121: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:2181): Gtk-WARNING **: 23:53:01.121: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:2181): Gtk-WARNING **: 23:53:01.121: Unable to locate theme engine in module_path: "murrine",
+
+(xfsettingsd:2181): Gtk-WARNING **: 23:53:01.122: Unable to locate theme engine in module_path: "murrine",
+/usr/share/spotify/spotify: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /usr/share/spotify/spotify)
+
+(xfce4-panel:2177): Gtk-WARNING **: 23:53:01.144: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:2177): Gtk-WARNING **: 23:53:01.144: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:2177): Gtk-WARNING **: 23:53:01.144: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:2177): Gtk-WARNING **: 23:53:01.145: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:2177): Gtk-WARNING **: 23:53:01.145: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:2177): Gtk-WARNING **: 23:53:01.145: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:2177): Gtk-WARNING **: 23:53:01.145: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:2177): Gtk-WARNING **: 23:53:01.145: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:2177): Gtk-WARNING **: 23:53:01.146: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:2177): Gtk-WARNING **: 23:53:01.146: Unable to locate theme engine in module_path: "murrine",
+
+(xfce4-panel:2177): Gtk-WARNING **: 23:53:01.146: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:2173): Gtk-WARNING **: 23:53:01.174: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:2173): Gtk-WARNING **: 23:53:01.174: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:2173): Gtk-WARNING **: 23:53:01.174: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:2173): Gtk-WARNING **: 23:53:01.175: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:2173): Gtk-WARNING **: 23:53:01.175: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:2173): Gtk-WARNING **: 23:53:01.175: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:2173): Gtk-WARNING **: 23:53:01.175: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:2173): Gtk-WARNING **: 23:53:01.175: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:2173): Gtk-WARNING **: 23:53:01.175: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:2173): Gtk-WARNING **: 23:53:01.175: Unable to locate theme engine in module_path: "murrine",
+
+(xfwm4:2173): Gtk-WARNING **: 23:53:01.176: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:2182): Gtk-WARNING **: 23:53:01.237: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:2182): Gtk-WARNING **: 23:53:01.237: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:2182): Gtk-WARNING **: 23:53:01.237: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:2182): Gtk-WARNING **: 23:53:01.238: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:2182): Gtk-WARNING **: 23:53:01.238: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:2182): Gtk-WARNING **: 23:53:01.238: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:2182): Gtk-WARNING **: 23:53:01.238: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:2182): Gtk-WARNING **: 23:53:01.238: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:2182): Gtk-WARNING **: 23:53:01.238: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:2182): Gtk-WARNING **: 23:53:01.238: Unable to locate theme engine in module_path: "murrine",
+
+(xfdesktop:2182): Gtk-WARNING **: 23:53:01.239: Unable to locate theme engine in module_path: "murrine",
+Error org.freedesktop.DBus.Error.ServiceUnknown: The name org.mpris.MediaPlayer2.spotify was not provided by any .service files
+
+(wrapper-1.0:2267): Gtk-WARNING **: 23:53:01.361: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2267): Gtk-WARNING **: 23:53:01.362: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2267): Gtk-WARNING **: 23:53:01.362: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2267): Gtk-WARNING **: 23:53:01.362: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2267): Gtk-WARNING **: 23:53:01.362: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2267): Gtk-WARNING **: 23:53:01.362: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2267): Gtk-WARNING **: 23:53:01.362: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2267): Gtk-WARNING **: 23:53:01.363: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2267): Gtk-WARNING **: 23:53:01.363: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2267): Gtk-WARNING **: 23:53:01.363: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2283): Gtk-WARNING **: 23:53:01.365: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2283): Gtk-WARNING **: 23:53:01.365: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2283): Gtk-WARNING **: 23:53:01.365: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2283): Gtk-WARNING **: 23:53:01.366: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2283): Gtk-WARNING **: 23:53:01.366: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2283): Gtk-WARNING **: 23:53:01.366: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2283): Gtk-WARNING **: 23:53:01.366: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2267): Gtk-WARNING **: 23:53:01.377: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2283): Gtk-WARNING **: 23:53:01.387: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2283): Gtk-WARNING **: 23:53:01.388: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2283): Gtk-WARNING **: 23:53:01.388: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2283): Gtk-WARNING **: 23:53:01.388: Unable to locate theme engine in module_path: "murrine",
+ERROR: ld.so: object 'libcurl.so.3' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+/proc/self/exe: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /proc/self/exe)
+
+(wrapper-1.0:2275): Gtk-WARNING **: 23:53:01.434: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2275): Gtk-WARNING **: 23:53:01.434: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2275): Gtk-WARNING **: 23:53:01.435: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2275): Gtk-WARNING **: 23:53:01.435: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2275): Gtk-WARNING **: 23:53:01.435: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2275): Gtk-WARNING **: 23:53:01.435: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2275): Gtk-WARNING **: 23:53:01.435: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2275): Gtk-WARNING **: 23:53:01.435: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2275): Gtk-WARNING **: 23:53:01.436: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2275): Gtk-WARNING **: 23:53:01.436: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2275): Gtk-WARNING **: 23:53:01.436: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2289): Gtk-WARNING **: 23:53:01.443: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2289): Gtk-WARNING **: 23:53:01.443: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2289): Gtk-WARNING **: 23:53:01.443: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2289): Gtk-WARNING **: 23:53:01.444: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2289): Gtk-WARNING **: 23:53:01.444: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2289): Gtk-WARNING **: 23:53:01.444: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2289): Gtk-WARNING **: 23:53:01.444: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2289): Gtk-WARNING **: 23:53:01.444: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2289): Gtk-WARNING **: 23:53:01.444: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2289): Gtk-WARNING **: 23:53:01.445: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2289): Gtk-WARNING **: 23:53:01.445: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2257): Gtk-WARNING **: 23:53:01.466: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2257): Gtk-WARNING **: 23:53:01.466: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2257): Gtk-WARNING **: 23:53:01.466: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2257): Gtk-WARNING **: 23:53:01.467: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2257): Gtk-WARNING **: 23:53:01.467: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2257): Gtk-WARNING **: 23:53:01.467: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2257): Gtk-WARNING **: 23:53:01.467: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2257): Gtk-WARNING **: 23:53:01.467: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2257): Gtk-WARNING **: 23:53:01.467: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2257): Gtk-WARNING **: 23:53:01.467: Unable to locate theme engine in module_path: "murrine",
+
+(wrapper-1.0:2257): Gtk-WARNING **: 23:53:01.473: Unable to locate theme engine in module_path: "murrine",
+[0828/235301.565045:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+
+(wrapper-2.0:2256): Gtk-WARNING **: 23:53:01.834: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:2245): Gtk-WARNING **: 23:53:01.857: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(pamac-tray:2193): Gdk-CRITICAL **: 23:53:01.875: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(wrapper-2.0:2263): Gtk-WARNING **: 23:53:01.906: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+weather-Message: 23:53:01.941: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=38.258202;lon=-85.452599;msl=221
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+
+(blueman-applet:2205): Gdk-CRITICAL **: 23:53:02.057: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(polkit-gnome-authentication-agent-1:2209): GdkPixbuf-CRITICAL **: 23:53:02.075: gdk_pixbuf_composite: assertion 'dest_x >= 0 && dest_x + dest_width <= dest->width' failed
+Gtk-Message: 23:53:02.108: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 23:53:27.051: GtkDialog mapped without a transient parent. This is discouraged.
+
+(polkit-gnome-authentication-agent-1:2209): GdkPixbuf-CRITICAL **: 23:53:41.282: gdk_pixbuf_composite: assertion 'dest_x >= 0 && dest_x + dest_width <= dest->width' failed
+Gtk-Message: 23:53:41.288: GtkDialog mapped without a transient parent. This is discouraged.

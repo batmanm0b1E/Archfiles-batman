@@ -1,0 +1,48 @@
+[CLIENT] 0x5a00003
+  [CLIENT_ID] 2b6e322e7-62f3-4266-b883-f30f0c795f2b
+  [CLIENT_LEADER] 0x5a00001
+  [WINDOW_ROLE] xfce4-terminal-1535486934--1356014327
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - ben@ArcoLemur:/usr/bin
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (1103,198,814,483)
+  [GEOMETRY-MAXIMIZED] (1103,198,814,483)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x2c00001
+  [RES_NAME] spotify
+  [RES_CLASS] Spotify
+  [WM_NAME] Spotify
+  [GEOMETRY] (94,159,1600,900)
+  [GEOMETRY-MAXIMIZED] (3,59,800,600)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x1400002
+  [RES_NAME] Conky
+  [RES_CLASS] Conky
+  [WM_NAME] system_conky
+  [WM_COMMAND] (1) "conky"
+  [GEOMETRY] (-111,30,140,139)
+  [GEOMETRY-MAXIMIZED] (-418,28,140,139)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x8000
+[CLIENT] 0x4a00001
+  [RES_NAME] google-chrome
+  [RES_CLASS] Google-chrome
+  [WM_NAME] appear.in – one click video conversations - Google Chrome
+  [GEOMETRY] (0,30,1920,1019)
+  [GEOMETRY-MAXIMIZED] (10,30,945,1029)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380
+[CLIENT] 0x4a00019
+  [WM_NAME] appear.in screen sharing is sharing your screen with appear.in.
+  [GEOMETRY] (650,997,621,52)
+  [GEOMETRY-MAXIMIZED] (650,997,621,52)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x8080

@@ -1,0 +1,7 @@
+[user]
+	name = ben fitzpatrick
+	email = dfitz@me.com
+[credential]
+	helper = cache --timeout=25000
+[push]
+	default = simple

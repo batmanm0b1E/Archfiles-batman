@@ -1,0 +1,69 @@
+[CLIENT] 0x4c00001
+  [WM_NAME] Spotify
+  [GEOMETRY] (94,159,1600,900)
+  [GEOMETRY-MAXIMIZED] (3,59,800,600)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x4a00003
+  [CLIENT_ID] 208187e7a-9a68-4591-941c-c4d63cdaa427
+  [CLIENT_LEADER] 0x4a00001
+  [WINDOW_ROLE] xfce4-terminal-1535476146-1650591358
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - ben@ArcoLemur:~/conky-spotify
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (364,161,814,524)
+  [GEOMETRY-MAXIMIZED] (364,161,814,524)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x3a00013
+  [WM_NAME] appear.in screen sharing is sharing your screen with appear.in.
+  [GEOMETRY] (650,997,621,52)
+  [GEOMETRY-MAXIMIZED] (650,997,621,52)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x8080
+[CLIENT] 0x3a00001
+  [RES_NAME] google-chrome
+  [RES_CLASS] Google-chrome
+  [WM_NAME] Aureola/install-conky.sh at master · erikdubois/Aureola · GitHub - Google Chrome
+  [GEOMETRY] (0,30,1920,1019)
+  [GEOMETRY-MAXIMIZED] (10,30,945,1029)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380
+[CLIENT] 0x6200009
+  [CLIENT_LEADER] 0x6200001
+  [RES_NAME] pamac-manager
+  [RES_CLASS] Pamac-manager
+  [WM_NAME] Search
+  [WM_COMMAND] (1) "pamac-manager"
+  [GEOMETRY] (939,7,1007,599)
+  [GEOMETRY-MAXIMIZED] (939,7,1007,599)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10080
+[CLIENT] 0x5800001
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] cover.sh — ~/.conky/conky-spotify/scripts — Atom
+  [GEOMETRY] (0,59,1920,990)
+  [GEOMETRY-MAXIMIZED] (3,59,1920,990)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380
+[CLIENT] 0x1c00007
+  [CLIENT_ID] 2f29350b4-e421-455c-b28a-2004f810d368
+  [CLIENT_LEADER] 0x1c00001
+  [WINDOW_ROLE] Thunar-1535476184-446086146
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] scripts - File Manager
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (0,59,1920,990)
+  [GEOMETRY-MAXIMIZED] (640,314,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380

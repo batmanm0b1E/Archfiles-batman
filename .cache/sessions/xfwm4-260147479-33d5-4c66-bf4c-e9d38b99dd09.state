@@ -1,0 +1,68 @@
+[CLIENT] 0x4800019
+  [WM_NAME] appear.in screen sharing is sharing your screen with appear.in.
+  [GEOMETRY] (650,997,621,52)
+  [GEOMETRY-MAXIMIZED] (650,997,621,52)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x8000
+[CLIENT] 0x5800003
+  [CLIENT_ID] 2ada0f466-72c9-4df2-97b2-e6bfd2359088
+  [CLIENT_LEADER] 0x5800001
+  [WINDOW_ROLE] xfce4-terminal-1535483731-936627810
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - ben@ArcoLemur:~
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (325,59,814,483)
+  [GEOMETRY-MAXIMIZED] (325,59,814,483)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x1200002
+  [RES_NAME] Conky
+  [RES_CLASS] Conky
+  [WM_NAME] system_conky
+  [WM_COMMAND] (2) "conky" ".config/conky/start-conky.desktop"
+  [GEOMETRY] (27,57,140,139)
+  [GEOMETRY-MAXIMIZED] (959,538,2,2)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x8000
+[CLIENT] 0x5a00001
+  [WM_NAME] Spotify
+  [GEOMETRY] (94,159,1600,900)
+  [GEOMETRY-MAXIMIZED] (3,59,800,600)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x4800001
+  [RES_NAME] google-chrome
+  [RES_CLASS] Google-chrome
+  [WM_NAME] appear.in – one click video conversations - Google Chrome
+  [GEOMETRY] (0,30,1920,1019)
+  [GEOMETRY-MAXIMIZED] (10,30,945,1029)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380
+[CLIENT] 0x1a00007
+  [CLIENT_ID] 219f2c479-da82-43bb-a934-3dffcc5d69a6
+  [CLIENT_LEADER] 0x1a00001
+  [WINDOW_ROLE] Thunar-1535483534-2499121487
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] conky - File Manager
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (0,59,1920,990)
+  [GEOMETRY-MAXIMIZED] (640,314,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380
+[CLIENT] 0x3c00001
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] conky.conf — ~/.config/conky — Atom
+  [GEOMETRY] (0,59,1920,990)
+  [GEOMETRY-MAXIMIZED] (3,59,1920,990)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10380
